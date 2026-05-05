@@ -1,2 +1,6 @@
 # Lab 5 - Starter
-Lisa Tran
+
+
+https://mantuetr.github.io/Lab5_Starter/expose.html
+
+https://mantuetr.github.io/Lab5_Starter/explore.html
